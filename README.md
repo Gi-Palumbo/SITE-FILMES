@@ -1,3 +1,5 @@
-# SPA
-
-Repositório com códigos do projeto Filmes da disciplina APMD da FIAP
+# NOMES  
+3ECA
+Alessandro Chiareli RM84282  
+Giovanna Palumbo RM87767  
+Iago Carvalho  RM

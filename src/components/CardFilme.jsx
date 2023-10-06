@@ -86,7 +86,7 @@ export default function CardFilme({filme}){
                     {filme.vote_average.toFixed(1)}
                 </span>
             </div>
-            <a href="#" className="bg-pink-600 w-full rounded text-center py-1 hover:bg-pink-900">
+            <a href="#" className="bg-violet-600 w-full rounded text-center py-1 hover:bg-violet-900">
                 detalhes
             </a>
         </div>

@@ -54,7 +54,7 @@ export default function Login(){
                         onChange={e => setSenha(e.target.value)}
                     />
 
-                    <button className="bg-pink-600 p-2 mt-2 rounded">entrar</button>
+                    <button className="bg-violet-600 p-2 mt-2 rounded">entrar</button>
 
                 </form>
             </main>
